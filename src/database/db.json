@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "John",
+      "age": 23
+    },
+    {
+      "name": "24g3w4g",
+      "age": "312",
+      "id": 4
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "John 2",
+      "age": 23
+    },
+    {
+      "id": 2,
+      "name": "Scarlet 2",
+      "age": 26
+    }
+  ]
+}
